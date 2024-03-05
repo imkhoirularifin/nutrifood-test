@@ -1,4 +1,4 @@
-## Simple Bank
+## Nutrifood Test
 
 Nutrifood Test - Console App
 
